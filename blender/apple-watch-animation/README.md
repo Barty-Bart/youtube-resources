@@ -1,6 +1,6 @@
-# Watch reveal — Blender scene
+# Apple Watch Animation
 
-Download `watch-reveal.blend` and open it in Blender **5.2.1 LTS** (the version tested). No Higgsfield add-on, login or paid generation is required to open or render it.
+Download `apple-watch-animation.blend` and open it in Blender **5.2.1 LTS** (the version tested). No Higgsfield add-on, login or paid generation is required to open or render it.
 
 This is the original simple 3D watch proxy and camera animation from the tutorial, not the photorealistic watch produced by Seedance. No generated Higgsfield video is included.
 
